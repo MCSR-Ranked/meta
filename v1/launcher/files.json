@@ -1,0 +1,34 @@
+[
+    {
+        "name": "launcher",
+        "folder": "launcher"
+    },
+    {
+        "name": "config.json",
+        "folder": "json"
+    },
+    {
+        "name": "java_runtimes.json",
+        "folder": "json"
+    },
+    {
+        "name": "newnews.json",
+        "folder": "json"
+    },
+    {
+        "name": "minecraft_versions.json",
+        "folder": "json"
+    },
+    {
+        "name": "files.json",
+        "folder": "json"
+    },
+    {
+        "name": "version.json",
+        "folder": "json"
+    },
+    {
+        "name": "lwjgl.json",
+        "folder": "json"
+    }
+]

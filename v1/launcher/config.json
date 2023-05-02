@@ -1,0 +1,49 @@
+{
+    "useLwjglReplacement": true,
+    "removeInitialMemoryOption": true,
+    "useGraphql": {
+        "vanillaLoaderVersions": false,
+        "loaderVersions": false,
+        "loaderVersionsNonForge": false,
+        "packActions": false,
+        "news": false,
+        "unifiedModPacks": false
+    },
+    "minecraft": {
+        "experiment": {
+            "enabled": false,
+            "disabledVersions": []
+        },
+        "snapshot": {
+            "enabled": true,
+            "disabledVersions": []
+        },
+        "release": {
+            "enabled": true,
+            "disabledVersions": []
+        }
+    },
+    "loaders": {
+        "fabric": {
+            "enabled": true,
+            "disabledMinecraftVersions": [],
+            "disabledVersions": []
+        },
+        "legacyfabric": {
+            "enabled": true,
+            "disabledMinecraftVersions": [],
+            "disabledVersions": []
+        },
+        "quilt": {
+            "enabled": false,
+            "disabledMinecraftVersions": [],
+            "disabledVersions": []
+        }
+    },
+    "platforms": {
+        "modrinth": {
+            "modsEnabled": true,
+            "modpacksEnabled": false
+        }
+    }
+}
