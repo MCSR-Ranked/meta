@@ -1354,8 +1354,8 @@
         },
         {
             "downloads": {
-                "path": "org/lwjgl/lwjgl-stb/3.3.1/lwjgl-stb-3.3.1.jar",
                 "artifact": {
+                    "path": "org/lwjgl/lwjgl-stb/3.3.1/lwjgl-stb-3.3.1.jar",
                     "sha1": "b119297cf8ed01f247abe8685857f8e7fcf5980f",
                     "size": 112380,
                     "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-stb/3.3.1/lwjgl-stb-3.3.1.jar"
