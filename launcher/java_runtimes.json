@@ -1,0 +1,442 @@
+{
+    "linux": {
+        "java-runtime-alpha": [
+            {
+                "availability": {
+                    "group": 5851,
+                    "progress": 100
+                },
+                "manifest": {
+                    "sha1": "e968e71afd3360e5032deac19e1c14d7aa32f5bb",
+                    "size": 81882,
+                    "url": "https://launchermeta.mojang.com/v1/packages/e968e71afd3360e5032deac19e1c14d7aa32f5bb/manifest.json"
+                },
+                "version": {
+                    "name": "16.0.1.9.1",
+                    "released": "2021-05-10T16:43:02+00:00"
+                }
+            }
+        ],
+        "java-runtime-beta": [
+            {
+                "availability": {
+                    "group": 3563,
+                    "progress": 100
+                },
+                "manifest": {
+                    "sha1": "00045968710898a03aaae8bb08060019e4c97f6d",
+                    "size": 81503,
+                    "url": "https://launchermeta.mojang.com/v1/packages/00045968710898a03aaae8bb08060019e4c97f6d/manifest.json"
+                },
+                "version": {
+                    "name": "17.0.1.12.1",
+                    "released": "2021-11-15T14:15:19+00:00"
+                }
+            }
+        ],
+        "java-runtime-gamma": [
+            {
+                "availability": {
+                    "group": 1661,
+                    "progress": 100
+                },
+                "manifest": {
+                    "sha1": "7be0784f0c88afe4c5e5da54906f4da127ad5bfb",
+                    "size": 81969,
+                    "url": "https://piston-meta.mojang.com/v1/packages/7be0784f0c88afe4c5e5da54906f4da127ad5bfb/manifest.json"
+                },
+                "version": {
+                    "name": "17.0.3",
+                    "released": "2022-04-29T11:40:02+00:00"
+                }
+            }
+        ],
+        "jre-legacy": [
+            {
+                "availability": {
+                    "group": 6513,
+                    "progress": 100
+                },
+                "manifest": {
+                    "sha1": "a1c15cc788f8893fba7e988eb27404772f699a84",
+                    "size": 125581,
+                    "url": "https://launchermeta.mojang.com/v1/packages/a1c15cc788f8893fba7e988eb27404772f699a84/manifest.json"
+                },
+                "version": {
+                    "name": "8u202",
+                    "released": "2020-11-17T19:26:25+00:00"
+                }
+            }
+        ]
+    },
+    "linux-i386": {
+        "java-runtime-alpha": [],
+        "java-runtime-beta": [],
+        "java-runtime-gamma": [],
+        "jre-legacy": [
+            {
+                "availability": {
+                    "group": 4119,
+                    "progress": 100
+                },
+                "manifest": {
+                    "sha1": "64c6a0b8e3427c6c3f3ce82729aada8b2634a955",
+                    "size": 126498,
+                    "url": "https://launchermeta.mojang.com/v1/packages/64c6a0b8e3427c6c3f3ce82729aada8b2634a955/manifest.json"
+                },
+                "version": {
+                    "name": "8u202",
+                    "released": "2020-11-17T19:28:39+00:00"
+                }
+            }
+        ]
+    },
+    "mac-os": {
+        "java-runtime-alpha": [
+            {
+                "availability": {
+                    "group": 3212,
+                    "progress": 100
+                },
+                "manifest": {
+                    "sha1": "5a480fde2214534ab0b51ae78c70455ffd7c0e6a",
+                    "size": 95323,
+                    "url": "https://launchermeta.mojang.com/v1/packages/5a480fde2214534ab0b51ae78c70455ffd7c0e6a/manifest.json"
+                },
+                "version": {
+                    "name": "16.0.1.9.1_3",
+                    "released": "2021-05-11T15:03:25+00:00"
+                }
+            }
+        ],
+        "java-runtime-beta": [
+            {
+                "availability": {
+                    "group": 1943,
+                    "progress": 100
+                },
+                "manifest": {
+                    "sha1": "d1455136997ca90bfa5f081159dc2502606ec1c1",
+                    "size": 95464,
+                    "url": "https://launchermeta.mojang.com/v1/packages/d1455136997ca90bfa5f081159dc2502606ec1c1/manifest.json"
+                },
+                "version": {
+                    "name": "17.0.1.12.1",
+                    "released": "2021-11-15T13:49:56+00:00"
+                }
+            }
+        ],
+        "java-runtime-gamma": [
+            {
+                "availability": {
+                    "group": 6779,
+                    "progress": 100
+                },
+                "manifest": {
+                    "sha1": "472727534e345e4ef88ebddc1fbba3c38d31052e",
+                    "size": 95962,
+                    "url": "https://piston-meta.mojang.com/v1/packages/472727534e345e4ef88ebddc1fbba3c38d31052e/manifest.json"
+                },
+                "version": {
+                    "name": "17.0.3",
+                    "released": "2022-04-29T11:43:41+00:00"
+                }
+            }
+        ],
+        "jre-legacy": [
+            {
+                "availability": {
+                    "group": 8727,
+                    "progress": 100
+                },
+                "manifest": {
+                    "sha1": "341663b48a0d4e1c448dc789463fced6ba0962e1",
+                    "size": 77382,
+                    "url": "https://launchermeta.mojang.com/v1/packages/341663b48a0d4e1c448dc789463fced6ba0962e1/manifest.json"
+                },
+                "version": {
+                    "name": "8u74",
+                    "released": "2020-11-17T19:06:44+00:00"
+                }
+            }
+        ]
+    },
+    "mac-os-arm64": {
+        "java-runtime-alpha": [],
+        "java-runtime-beta": [],
+        "java-runtime-gamma": [
+            {
+                "availability": {
+                    "group": 1979,
+                    "progress": 100
+                },
+                "manifest": {
+                    "sha1": "fb1ecff317e6cbf6dbec0ec88ad26c49846be96f",
+                    "size": 95966,
+                    "url": "https://piston-meta.mojang.com/v1/packages/fb1ecff317e6cbf6dbec0ec88ad26c49846be96f/manifest.json"
+                },
+                "version": {
+                    "name": "17.0.3",
+                    "released": "2022-04-29T11:42:03+00:00"
+                }
+            }
+        ],
+        "jre-legacy": []
+    },
+    "windows-x64": {
+        "java-runtime-alpha": [
+            {
+                "availability": {
+                    "group": 4219,
+                    "progress": 100
+                },
+                "manifest": {
+                    "sha1": "0586267ba40236e176925da17ca0d29dead3d30d",
+                    "size": 145480,
+                    "url": "https://launchermeta.mojang.com/v1/packages/0586267ba40236e176925da17ca0d29dead3d30d/manifest.json"
+                },
+                "version": {
+                    "name": "16.0.1.9.1",
+                    "released": "2021-05-10T16:48:07+00:00"
+                }
+            }
+        ],
+        "java-runtime-beta": [
+            {
+                "availability": {
+                    "group": 3251,
+                    "progress": 100
+                },
+                "manifest": {
+                    "sha1": "b180218a447157cfd0b639aa94b0fa1fc522f80e",
+                    "size": 145530,
+                    "url": "https://launchermeta.mojang.com/v1/packages/b180218a447157cfd0b639aa94b0fa1fc522f80e/manifest.json"
+                },
+                "version": {
+                    "name": "17.0.1.12.1",
+                    "released": "2021-11-15T14:22:04+00:00"
+                }
+            }
+        ],
+        "java-runtime-gamma": [
+            {
+                "availability": {
+                    "group": 7950,
+                    "progress": 100
+                },
+                "manifest": {
+                    "sha1": "c1d6e73803941a7b26ef4ae2e95f7d6566c35f67",
+                    "size": 147366,
+                    "url": "https://piston-meta.mojang.com/v1/packages/c1d6e73803941a7b26ef4ae2e95f7d6566c35f67/manifest.json"
+                },
+                "version": {
+                    "name": "17.0.3",
+                    "released": "2022-04-29T11:45:17+00:00"
+                }
+            }
+        ],
+        "jre-legacy": [
+            {
+                "availability": {
+                    "group": 3654,
+                    "progress": 100
+                },
+                "manifest": {
+                    "sha1": "ddc568a50326d2cf85765abb61e752aab191c366",
+                    "size": 78978,
+                    "url": "https://launchermeta.mojang.com/v1/packages/ddc568a50326d2cf85765abb61e752aab191c366/manifest.json"
+                },
+                "version": {
+                    "name": "8u51",
+                    "released": "2020-11-17T19:12:13+00:00"
+                }
+            }
+        ]
+    },
+    "windows-x86": {
+        "java-runtime-alpha": [
+            {
+                "availability": {
+                    "group": 3889,
+                    "progress": 100
+                },
+                "manifest": {
+                    "sha1": "85c8e2653b5197bbb0fc9257932b670c630e1c77",
+                    "size": 143786,
+                    "url": "https://launchermeta.mojang.com/v1/packages/85c8e2653b5197bbb0fc9257932b670c630e1c77/manifest.json"
+                },
+                "version": {
+                    "name": "16.0.1.9.1",
+                    "released": "2021-05-10T16:45:24+00:00"
+                }
+            }
+        ],
+        "java-runtime-beta": [
+            {
+                "availability": {
+                    "group": 7598,
+                    "progress": 100
+                },
+                "manifest": {
+                    "sha1": "6c8a5052ca3cb2d6d4c44c708fd9a229fc66221a",
+                    "size": 145146,
+                    "url": "https://launchermeta.mojang.com/v1/packages/6c8a5052ca3cb2d6d4c44c708fd9a229fc66221a/manifest.json"
+                },
+                "version": {
+                    "name": "17.0.1.12.1",
+                    "released": "2021-11-15T14:19:45+00:00"
+                }
+            }
+        ],
+        "java-runtime-gamma": [
+            {
+                "availability": {
+                    "group": 9098,
+                    "progress": 100
+                },
+                "manifest": {
+                    "sha1": "901ed1cd7439b65c44a6075be66cef7418fdc0c7",
+                    "size": 146979,
+                    "url": "https://piston-meta.mojang.com/v1/packages/901ed1cd7439b65c44a6075be66cef7418fdc0c7/manifest.json"
+                },
+                "version": {
+                    "name": "17.0.3",
+                    "released": "2022-04-29T11:47:25+00:00"
+                }
+            }
+        ],
+        "jre-legacy": [
+            {
+                "availability": {
+                    "group": 4866,
+                    "progress": 100
+                },
+                "manifest": {
+                    "sha1": "baa62193c2785f54d877d871d9859c67d65f08ba",
+                    "size": 80613,
+                    "url": "https://launchermeta.mojang.com/v1/packages/baa62193c2785f54d877d871d9859c67d65f08ba/manifest.json"
+                },
+                "version": {
+                    "name": "8u51",
+                    "released": "2020-11-17T19:10:36+00:00"
+                }
+            }
+        ]
+    },
+    "linux-arm": {
+        "java-runtime-alpha": [
+            {
+                "source": "https://github.com/adoptium/temurin16-binaries/releases/download/jdk-16.0.2%2B7/OpenJDK16U-jdk_arm_linux_hotspot_16.0.2_7.tar.gz",
+                "manifest": {
+                    "sha1": "1502b96b925488dc105896329c9af5a3d03b2e76",
+                    "size": 88216,
+                    "url": "https://download.nodecdn.net/containers/atl/meta/minecraft/v1/packages/1502b96b925488dc105896329c9af5a3d03b2e76/manifest.json"
+                },
+                "version": {
+                    "name": "16.0.2.7.1",
+                    "released": "2021-07-30T17:08:13+00:00"
+                }
+            }
+        ],
+        "java-runtime-beta": [
+            {
+                "source": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.1%2B12/OpenJDK17U-jre_arm_linux_hotspot_17.0.1_12.tar.gz",
+                "manifest": {
+                    "sha1": "a1b2e5f50c2fe5070c83fb80739434f45d554135",
+                    "size": 44880,
+                    "url": "https://download.nodecdn.net/containers/atl/meta/minecraft/v1/packages/a1b2e5f50c2fe5070c83fb80739434f45d554135/manifest.json"
+                },
+                "version": {
+                    "name": "17.0.1.12",
+                    "released": "2021-10-27T13:36:51+00:00"
+                }
+            }
+        ],
+        "java-runtime-gamma": [
+            {
+                "source": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.3%2B7/OpenJDK17U-jre_arm_linux_hotspot_17.0.3_7.tar.gz",
+                "manifest": {
+                    "sha1": "7d80ca457d63f1e1b32dc50934c3dbaf044be471",
+                    "size": 44882,
+                    "url": "https://download.nodecdn.net/containers/atl/meta/minecraft/v1/packages/7d80ca457d63f1e1b32dc50934c3dbaf044be471/manifest.json"
+                },
+                "version": {
+                    "name": "17.0.3",
+                    "released": "2022-04-21T16:51:31+00:00"
+                }
+            }
+        ],
+        "jre-legacy": [
+            {
+                "source": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u352-b08/OpenJDK8U-jre_arm_linux_hotspot_8u352b08.tar.gz",
+                "manifest": {
+                    "sha1": "1935de4cdb2f771ad8f98d7af3f94ae07f95d305",
+                    "size": 37744,
+                    "url": "https://download.nodecdn.net/containers/atl/meta/minecraft/v1/packages/1935de4cdb2f771ad8f98d7af3f94ae07f95d305/manifest.json"
+                },
+                "version": {
+                    "name": "8u352",
+                    "released": "2022-10-25T11:41:13+00:00"
+                }
+            }
+        ]
+    },
+    "linux-arm64": {
+        "java-runtime-alpha": [
+            {
+                "source": "https://aka.ms/download-jdk/microsoft-jdk-16.0.2.7.1-linux-aarch64.tar.gz",
+                "manifest": {
+                    "sha1": "5c2a20d558b0ab81d041cfd02c927f8dab191735",
+                    "size": 131573,
+                    "url": "https://download.nodecdn.net/containers/atl/meta/minecraft/v1/packages/5c2a20d558b0ab81d041cfd02c927f8dab191735/manifest.json"
+                },
+                "version": {
+                    "name": "16.0.2.7.1",
+                    "released": "2021-08-06T19:20:12+00:00"
+                }
+            }
+        ],
+        "java-runtime-beta": [
+            {
+                "source": "https://aka.ms/download-jdk/microsoft-jdk-17.0.1.12.1-linux-aarch64.tar.gz",
+                "manifest": {
+                    "sha1": "1498d80175b12c4032319096ed572acc5f7f75c8",
+                    "size": 130541,
+                    "url": "https://download.nodecdn.net/containers/atl/meta/minecraft/v1/packages/1498d80175b12c4032319096ed572acc5f7f75c8/manifest.json"
+                },
+                "version": {
+                    "name": "17.0.1.12.1",
+                    "released": "2021-10-26T04:21:37+00:00"
+                }
+            }
+        ],
+        "java-runtime-gamma": [
+            {
+                "source": "https://aka.ms/download-jdk/microsoft-jdk-17.0.3-linux-aarch64.tar.gz",
+                "manifest": {
+                    "sha1": "a3373f3ff4469b94cbde71f66f182539fd1a5dca",
+                    "size": 130542,
+                    "url": "https://download.nodecdn.net/containers/atl/meta/minecraft/v1/packages/a3373f3ff4469b94cbde71f66f182539fd1a5dca/manifest.json"
+                },
+                "version": {
+                    "name": "17.0.3",
+                    "released": "2022-04-26T23:59:08+00:00"
+                }
+            }
+        ],
+        "jre-legacy": [
+            {
+                "source": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u352-b08/OpenJDK8U-jre_aarch64_linux_hotspot_8u352b08.tar.gz",
+                "manifest": {
+                    "sha1": "a912362bbed47bca061cd1256c6ca9c00ffe0aa6",
+                    "size": 37761,
+                    "url": "https://download.nodecdn.net/containers/atl/meta/minecraft/v1/packages/a912362bbed47bca061cd1256c6ca9c00ffe0aa6/manifest.json"
+                },
+                "version": {
+                    "name": "8u352",
+                    "released": "2022-10-18T10:20:11+00:00"
+                }
+            }
+        ]
+    }
+}

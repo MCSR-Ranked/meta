@@ -1,0 +1,15 @@
+{
+    "latest": {
+        "release": "1.16.1",
+        "snapshot": "1.16.1"
+    },
+    "versions": [
+        {
+            "id": "1.16.1",
+            "type": "release",
+            "url": "https://launchermeta.mojang.com/v1/packages/db482626f80f0d3b30495948d3ed89a7c904c42e/1.16.1.json",
+            "time": "2022-02-25T13:15:31+00:00",
+            "releaseTime": "2020-10-29T15:49:37+00:00"
+        }
+    ]
+}
