@@ -1,1 +1,1 @@
-https://github.com/MCSR-Ranked/Launcher/releases/download/v1.1.1.1/MCSRRankedLauncher-1.1.1.1.exe
+https://github.com/MCSR-Ranked/Launcher/releases/download/v1.2.0.0/MCSRRankedLauncher-1.2.0.0.exe
