@@ -518,6 +518,7 @@
         {
             "downloads": {
                 "artifact": {
+                    "path": "ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0.jar",
                     "sha1": "6ef160c3133a78de015830860197602ca1c855d3",
                     "size": 40502,
                     "url": "https://libraries.minecraft.net/ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0.jar"
