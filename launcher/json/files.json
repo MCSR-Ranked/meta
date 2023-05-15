@@ -26,9 +26,5 @@
     {
         "name": "version.json",
         "folder": "json"
-    },
-    {
-        "name": "lwjgl.json",
-        "folder": "json"
     }
 ]
