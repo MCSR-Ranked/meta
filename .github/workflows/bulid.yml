@@ -25,7 +25,7 @@ jobs:
               const fs = require('fs');
               const data = JSON.parse(fs.readFileSync('./launcher/json/version.json'));
               const versionName = `${data.reserved}.${data.major}.${data.minor}.${data.revision}`;
-              fs.writeFileSync('./launcher/_latest.txt', `https://github.com/MCSR-Ranked/Launcher/releases/download/v${versionName}/MCSRRankedLauncher-${versionName}.exe`, 'utf8');
+              fs.writeFileSync('./launcher/latest', `https://github.com/MCSR-Ranked/Launcher/releases/download/v${versionName}/MCSRRankedLauncher-${versionName}.exe`, 'utf8');
             } catch(err) {
               core.error("Error while reading or parsing the JSON")
               core.setFailed(err)
